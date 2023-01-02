@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Word Kid App</string>
+    <string name="touchpad">touchpad</string>
+    <string name="desktop">desktop</string>
+    <string name="laptop">laptop</string>
+    <string name="mouse">mouse</string>
+    <string name="kids_word_app">Word App for Kids</string>
+    <string name="keyboard">keyboard</string>
+    <string name="todo">TODO</string>
+    <string name="sally_hates_typing_on_an_apple_keyboard">Sally hates typing on an Apple keyboard.</string>
+    <string name="todo1">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="sally_prefers_to_use_a_mouse_with_a_laptop">Sally prefers to use a mouse with a laptop</string>
+    <string name="todo2">TODO</string>
+    <string name="bobby_likes_to_use_a_laptop_because_its_portable">Bobby likes to use a laptop because its portable.</string>
+    <string name="sarah_uses_her_laptop_for_homework">Sarah uses her laptop for homework.</string>
+    <string name="todo3">TODO</string>
+    <string name="the_computer_lab_only_has_desktop_computers">The computer lab only has desktop computers.</string>
+    <string name="rebbeca_got_the_touchpad_sticky_from_candy">Rebbeca got the touchpad sticky from candy.</string>
+    <string name="todo4">TODO</string>
+</resources>
